@@ -1,9 +1,8 @@
 # Hello, I'm Zachary LaForm
 <a href="https://www.linkedin.com/in/zachary-laform-4a5235187/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an experienced IT professional with specialised skills in systems administration, cybersecurity, and technical support. With a diploma from Fleming College, as well as certificates from Fanshawe College, and Google. I have experience in managing both on-premises and cloud-based environments, including Azure, and Active Directory. Zachary has successfully supported diverse organisations by implementing cybersecurity measures, managing Active Directory, and optimising network infrastructure. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
